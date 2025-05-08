@@ -1,5 +1,7 @@
 # Castline
 
+![Castline Banner](assets/castline_banner.png)
+
 **Castline** is a minimalist 2.5D raycasting game built in C++ using SDL2 and CMake, inspired by early FPS classics like *Wolfenstein 3D*. It combines retro-style rendering with a modern C++ architecture, and serves as both a learning experience and portfolio piece.
 
 ---
